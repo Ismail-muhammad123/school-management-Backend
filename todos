@@ -1,0 +1,25 @@
+- database connnection
+- login
+- reset password
+- confirm reset password. 
+
+STUDENTS
+- submit application
+- view application status
+- view profile
+- update profile
+- register
+
+
+ADMIN
+- add admin
+- remove admin
+- update admin
+- view admins
+- view admin details
+
+- approve students aplication
+- reject student application
+- view students aplications
+- view student details
+- view students list
